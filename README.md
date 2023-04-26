@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=asadsarfraz2347&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asadsarfraz2347&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **asadsarfraz2347/asadsarfraz2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
